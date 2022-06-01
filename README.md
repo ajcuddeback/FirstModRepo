@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/ajcuddeback/E-commerce-Back-End)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ajcuddeback/E-commerce-Back-End)
-![GitHub issues](https://img.shields.io/github/issues/ajcuddeback/E-commerce-Back-End)
+![GitHub top language](https://img.shields.io/github/languages/top/ajcuddeback/FirstModRepo)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ajcuddeback/FirstModRepo)
+![GitHub issues](https://img.shields.io/github/issues/ajcuddeback/FirstModRepo)
 
 # My First Minecraft Mod
 
