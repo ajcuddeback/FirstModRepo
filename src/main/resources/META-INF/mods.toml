@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="MIT"
+[[mods]]
+modId="first_mod"
+version="${file.jarVersion}"
+displayName="First Mod"
+logoFile="examplemod.png"
+credits="A mod by ajcudd"
+authors="ajcudd"
+description='''
+A mod made by ajcudd
+'''
+
+[[dependencies.first_mod]]
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[39,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.first_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
