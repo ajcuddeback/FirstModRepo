@@ -3,7 +3,7 @@ loaderVersion="[39,)"
 license="MIT"
 [[mods]]
 modId="first_mod"
-version="${file.jarVersion}"
+version="1.18.1-0.0.0.0"
 displayName="First Mod"
 logoFile="examplemod.png"
 credits="A mod by ajcudd"
